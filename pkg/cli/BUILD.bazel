@@ -219,6 +219,7 @@ go_library(
         "//pkg/workload/examples",
         "//pkg/workload/kv",
         "//pkg/workload/mm",
+        "//pkg/workload/mytest",
         "//pkg/workload/movr",
         "//pkg/workload/tpcc",
         "//pkg/workload/tpch",
